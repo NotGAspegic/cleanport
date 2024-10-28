@@ -1,2 +1,2 @@
-# prismo-sou.me/cleanport
+# prismo-sou.me
 My portfolio & personal website.
