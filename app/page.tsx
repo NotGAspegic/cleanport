@@ -37,7 +37,7 @@ export default function Home() {
           <div className="flex gap-4 items-center flex-row">
             <Avatar
               name="Souhail Smiri"
-              src="/public/souhailsmiri.png"
+              src="/cleanport/souhailsmiri.png"
               size="lg"
             />
             <div className="flex gap-2 items-center flex-col">
